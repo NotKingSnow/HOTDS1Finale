@@ -107,7 +107,7 @@ q "**S01E08: Who gave the order to disarm Daemon Targaryen after he killed Vaemo
 a "Ser Otto Hightower", "Otto Hightower", "Otto"
 
 q "**S01E08: Who is the first to greet Rhaenyra and Daemon Targaryen upon their return to King's Landing?**"
-a "Lord Allun Caswell", "Lord Caswell", "Caswell
+a "Lord Allun Caswell", "Lord Caswell", "Caswell"
 
 q "**S01E08:**"
 a ""
