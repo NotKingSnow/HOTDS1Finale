@@ -13,7 +13,7 @@ a "Absolute Power"
 q "**S01E01: Lord Corlys Velaryon tells the Small Council that the Triarchy has massed on what island?**"
 a "Bloodstone"
 
-q "**S01E02: Finish the quote! "You are the King, but _ __ ___ ___ ___. (5 words) **"
+q "**S01E02: Finish the quote! "You are the King, but _ __ ___ ___ __." (5 words) **"
 a "I do not envy you"
 
 q "**S01E02:**"
