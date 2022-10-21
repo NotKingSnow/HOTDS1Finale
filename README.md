@@ -17,7 +17,7 @@ q "**S01E02: Finish the quote! "You are the King, but _ __ ___ ___ __." (5 words
 a "I do not envy you"
 
 q "**S01E02: Finish the quote! "Men would sooner put the _____ __ ___ _____, than see a woman ascend the Iron Throne." (4 words)**"
-a ""
+a "Realm to the torch"
 
 q "**S01E02:**"
 a ""
