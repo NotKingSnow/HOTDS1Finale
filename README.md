@@ -4,17 +4,17 @@ a "King Jaehaerys I Targaryen", "Jaehaerys I Targaryen", "Jaehaerys Targaryen", 
 q "**S01E01: House of the Dragon opens how many years before the birth of Daenerys Targaryen**"
 a "172", "One Hundred Seventy-Two"
 
-q "**S01E01: Finish the quote! "This is no _____ ______, Rhaenyra."**"
+q "**S01E01: Finish the quote! "This is no _____ ______, Rhaenyra." (2 words)**"
 a "Trivial Gesture"
 
-q "**S01E01:**"
-a ""
+q "**S01E01: Finish the quote! "The Gods have yet to make a man who lacks the patience for ______ ______, Your Grace." (2 words)**"
+a "Absolute Power"
 
-q "**S01E01:**"
-a ""
+q "**S01E01: Lord Corlys Velaryon tells the Small Council that the Triarchy has massed on what island?**"
+a "Bloodstone"
 
-q "**S01E02:**"
-a ""
+q "**S01E02: Finish the quote! "You are the King, but _ __ ___ ___ ___. (5 words) **"
+a "I do not envy you"
 
 q "**S01E02:**"
 a ""
