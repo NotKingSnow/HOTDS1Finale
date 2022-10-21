@@ -1,11 +1,11 @@
-q "**S01E01:**"
-a ""
+q "**S01E01: Who is the first Targaryen to appear on screen in House of the Dragon?**"
+a "King Jaehaerys I Targaryen", "Jaehaerys I Targaryen", "Jaehaerys Targaryen", "Jaehaerys I", "Jaehaerys 1", "J1", Jaehaerys"
 
-q "**S01E01:**"
-a ""
+q "**S01E01: House of the Dragon opens how many years before the birth of Daenerys Targaryen**"
+a "172", "One Hundred Seventy-Two"
 
-q "**S01E01:**"
-a ""
+q "**S01E01: Finish the quote! "This is no _____ ______, Rhaenyra."**"
+a "Trivial Gesture"
 
 q "**S01E01:**"
 a ""
@@ -151,19 +151,19 @@ a ""
 q "**What actor has appeared in both Season 1 of Game of Thrones and Season 1 of House of the Dragon**"
 a "Jefferson Hall"
 
-q "**question**"
-a ""
+q "**Houses of HOT D: Name the House!**"
+a "House Fell"
 
-q "**question**"
-a ""
+q "**Houses of HOT D: Name the House!**"
+a "House Caswell"
 
-q "**question**"
-a ""
+q "**Houses of HOT D: Name the House!**"
+a "House Beesbury"
 
-q "**question**"
-a ""
+q "**Houses of HOT D: Name the House!**"
+a "House Strong"
 
-q "**question**"
+q "**Houses of HOT D: Name the House!**"
 a ""
 
 q "**question**"
