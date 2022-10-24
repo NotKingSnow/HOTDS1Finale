@@ -67,11 +67,11 @@ a "The Godswood", "Godswood"
 q "**S01E05: Who informs King Viserys of the death of Lady Rhea Royce?**"
 a "Lord Corlys Velaryon", "Corlys Velaryon", "Corlys"
 
-q "**S01E05:**"
-a ""
+q "**S01E05: Finish the quote! "With House Targaryen and House Velaryon united, I hope to herald in a ______ ___ __ ______ in Westeros." (4 words)**"
+a "Second Age of Dragons"
 
-q "**S01E05:**"
-a ""
+q "**S01E05: Ser Joffrey Lonmouth was also known by what nickname?**"
+a "The Knight of Kisses", "Knight of Kisses"
 
 q "**S01E06:**"
 a ""
@@ -164,7 +164,7 @@ q "**Houses of HOT D: Name the House!**"
 a "House Strong"
 
 q "**Houses of HOT D: Name the House!**"
-a ""
+a "House Cole"
 
 q "**question**"
 a ""
