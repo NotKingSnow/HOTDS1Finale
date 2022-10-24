@@ -56,16 +56,16 @@ q "**S01E04: Finish the quote! "Hard lessons are not welcomed, but ______." (1 w
 a "Suffered"
 
 q "**S01E04: By this episode, how many fingers had King Viserys lost?**"
-a ""
+a "Two", "2"
 
-q "**S01E05:**"
-a ""
+q "**S01E05: Finish the quote! "Either you prepare Aegon to rule, or you cleave to Rhaenyra and ____ ___ ___ _____." (4 words)**"
+a "pray for her mercy"
 
-q "**S01E05:**"
-a ""
+q "**S01E05: Larys Strong first approaches Alicent Hightower in which landmark of the Red Keep?**"
+a "The Godswood", "Godswood"
 
-q "**S01E05:**"
-a ""
+q "**S01E05: Who informs King Viserys of the death of Lady Rhea Royce?**"
+a "Lord Corlys Velaryon", "Corlys Velaryon", "Corlys"
 
 q "**S01E05:**"
 a ""
