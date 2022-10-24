@@ -73,11 +73,11 @@ a "Second Age of Dragons"
 q "**S01E05: Ser Joffrey Lonmouth was also known by what nickname?**"
 a "The Knight of Kisses", "Knight of Kisses"
 
-q "**S01E06:**"
-a ""
+q "**S01E06: The episode opens with the birth of which of Princess Rhaenyra's children?**"
+a "Prince Joffrey Velaryon", "Joffrey Velaryon", "Joffrey" 
 
-q "**S01E06:**"
-a ""
+q "**S01E06: Vermax is bonded with what Dragonrider?**"
+a "Prince Jacaerys Velaryon", "Jacaerys Velaryon", "Jacaerys", "Jace"
 
 q "**S01E06:**"
 a ""
