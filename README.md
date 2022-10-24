@@ -79,14 +79,14 @@ a "Prince Joffrey Velaryon", "Joffrey Velaryon", "Joffrey"
 q "**S01E06: Vermax is bonded with what Dragonrider?**"
 a "Prince Jacaerys Velaryon", "Jacaerys Velaryon", "Jacaerys", "Jace"
 
-q "**S01E06:**"
-a ""
+q "**S01E06: Rhaenyra's offer to Alicent includes the gifting of a dragon egg to whom?**"
+a "Prince Aemond Targaryen", "Aemond Targaryen", "Aemond"
 
-q "**S01E06:**"
-a ""
+q "**S01E06: Larys Strong's cane is inset with what animal?**"
+a "Firefly", "A firefly"
 
-q "**S01E06:**"
-a ""
+q "**S01E06: Finish the quote! "Laenor, bring him. We'll need every _____ __ ___ ______." (4 words)**"
+a "sword we can muster"
 
 q "**S01E07:**"
 a ""
