@@ -47,7 +47,7 @@ q "**S01E04: How many marriage proposals does Princess Rhaenyra Targaryen hear o
 a "Two", "2"
 
 q "**S01E04: Prince Daemon Targaryen says how many Triarchy corpses remain on the Stepstones as a warning?**"
-a "Two-thousand", "2000", "2k"
+a "Two-thousand", "2000", "2k", "two thousand"
 
 q "**S01E04: Who stops Princess Rhaenyra Targaryen while she is running through the streets of King's Landing?**"
 a "Ser Harwin Strong", "Harwin Strong", "Harwin"
@@ -88,10 +88,10 @@ a "Firefly", "A firefly"
 q "**S01E06: Finish the quote! "Laenor, bring him. We'll need every ..." (4 words)**"
 a "sword we can muster"
 
-q "**S01E07: Finish the quote! "If I'm the Lord of Driftmark, it means ... (2 words)**"
+q "**S01E07: Finish the quote! "If I'm the Lord of Driftmark, it means ..." (2 words)**"
 a "everyone's dead", "everyones dead", "everyone is dead"
 
-q "**S01E07: Finish the quote! "What is this brief mortal life if not the ... (3 words)**"
+q "**S01E07: Finish the quote! "What is this brief mortal life if not the ..." (3 words)**"
 a "pursuit of legacy"
 
 q "**S01E07: Who took the eye of Prince Aemond Targaryen?**"
@@ -107,24 +107,24 @@ q "**S01E08: Who gave the order to disarm Daemon Targaryen after he killed Vaemo
 a "Ser Otto Hightower", "Otto Hightower", "Otto"
 
 q "**S01E08: Who is the first to greet Rhaenyra and Daemon Targaryen upon their return to King's Landing?**"
-a "Lord Allun Caswell", "Lord Caswell", "Caswell"
+a "Lord Allun Caswell", "Lord Caswell", "Caswell", "Allun", "Allun Caswell"
 
 q "**S01E08: Lord Corlys Velaryon was slashed in the neck by what weapon?**"
 a "A dagger", "dagger"
 
-q "**S01E08: Finish the quote! "They'll force you to your knees, and I ... (3 words)**"
+q "**S01E08: Finish the quote! "They'll force you to your knees, and I ..." (3 words)**"
 a "must stand alone"
 
 q "**S01E08: In the throne room, who does King Viserys ask for insight regarding the question of the succession of Driftmark?**"
 a "Princess Rhaenys Targaryen", "Princess Rhaenys", "Rhaenys", "Rhaenys Targaryen"
 
-q "**S01E09: Who is the first to reject the accession of Aegon II Targaryen?**"
+q "**S01E09: Who was the first to reject the accession of Aegon II Targaryen?**"
 a "Lord Lyman Beesbury", "Lyman Beesbury", "Lyman", "Beesbury"
 
 q "**S01E09: Otto Hightower states how many of the City Watch captains are still loyal to Prince Daemon Targaryen?**"
 a "Two", "2"
 
-q "**S01E09: Where is Prince Aegon Targaryen found following the death of King Viserys I Targaryen?**"
+q "**S01E09: Where was Prince Aegon Targaryen found following the death of King Viserys I Targaryen?**"
 a "The Grand Sept", "Sept" "The Great Sept", "Great Sept", "Grand Sept"
 
 q "**S01E09: What is the first House to formally reaffirm their allegiance to Rhaenyra Targaryen in the Throne Room?**"
@@ -133,7 +133,7 @@ a "House Fell", "Fell"
 q "**S01E09: Who placed the crown on the head of King Aegon II Targaryen during his coronation?**"
 a "Ser Criston Cole", "Criston Cole", "Criston", "Cole"
 
-q "**S01E10: Finish the quote! "A war is like to be fought over this treachery, to be sure. But that was is not ... (3 words)**"
+q "**S01E10: Finish the quote! "A war is like to be fought over this treachery, to be sure. But that war is not ..." (3 words)**"
 a "mine to begin"
 
 q "**S01E10: During the coronation of Queen Rhaenyra I Targaryen, who remains standing?**"
@@ -142,7 +142,7 @@ a "Princess Rhaenys Targaryen", "Princess Rhaenys", "Rhaenys", "Rhaenys Targarye
 q "**S01E10: At the time of Queen Rhaenyra's accession, Dragonstone's defenses include how many knights?**"
 a "Thirty", "30"
 
-q "**S01E10: Finish the quote! "There has never lived a Stark who ... (3 words)**"
+q "**S01E10: Finish the quote! "There has never lived a Stark who ..." (3 words)**"
 a "forgot an oath"
 
 q "**S01E10: How many dragons are seen on-screen in the season finale of House of the Dragon?**"
@@ -152,27 +152,27 @@ q "**What actor has appeared in both Season 1 of Game of Thrones and Season 1 of
 a "Jefferson Hall"
 
 q "**Houses of HOT D: Name the House!**"
-a "House Fell"
+a "House Fell", "Fell"
 i "https://i.imgur.com/hRkEyAJ.jpg"
 
 q "**Houses of HOT D: Name the House!**"
-a "House Caswell"
+a "House Caswell", "Caswell"
 i "https://i.imgur.com/mAhTduZ.jpg"
 
 q "**Houses of HOT D: Name the House!**"
-a "House Beesbury"
+a "House Beesbury", "Beesbury"
 i "https://i.imgur.com/UvxkLLV.jpg"
 
 q "**Houses of HOT D: Name the House!**"
-a "House Strong"
+a "House Strong", "Strong"
 i "https://i.imgur.com/AsRjM54.jpg"
 
 q "**Houses of HOT D: Name the House!**"
-a "House Cole"
+a "House Cole", "Cole"
 i "https://i.imgur.com/26Cfts4.jpg"
 
 q "**Ser Harwin Strong and his brother, Ser Larys, first appear in what episode of House of the Dragon?**"
-a "S01E03: Second of His Name", "1x3", "S1E3" "episode 3", "e3", "3", "three"
+a "S01E03: Second of His Name", "1x3", "S1E3" "episode 3", "e3", "3", "three", "ep3", "ep 3", "103"
 
 q "**What was the first dragon to appear on-screen in House of the Dragon?**"
 a "Syrax"
