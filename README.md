@@ -166,14 +166,14 @@ a "House Strong"
 q "**Houses of HOT D: Name the House!**"
 a "House Cole"
 
-q "**question**"
-a ""
+q "**Ser Harwin Strong and his brother, Ser Larys, first appear in what episode of House of the Dragon?**"
+a "S01E03: Second of His Name", "1x3", "S1E3" "episode 3", "e3", "3", "three"
 
-q "**question**"
-a ""
+q "**What was the first dragon to appear on-screen in House of the Dragon?**"
+a "Syrax"
 
-q "**question**"
-a ""
+q "**Storm's End sits on the northern shore of what body of water?**"
+a "Shipbreaker Bay"
 
 q "**Yezzan...**"
 a "zo Qaggaz"
