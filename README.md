@@ -133,20 +133,20 @@ a "House Fell", "Fell"
 q "**S01E09: Who placed the crown on the head of King Aegon II Targaryen during his coronation?**"
 a "Ser Criston Cole", "Criston Cole", "Criston", "Cole"
 
-q "**S01E10:**"
-a ""
+q "**S01E10: Finish the quote! "A war is like to be fought over this treachery, to be sure. But that was is not ... (3 words)**"
+a "mine to begin"
 
-q "**S01E10:**"
-a ""
+q "**S01E10: During the coronation of Queen Rhaenyra I Targaryen, who remains standing?**"
+a "Princess Rhaenys Targaryen", "Princess Rhaenys", "Rhaenys", "Rhaenys Targaryen"
 
-q "**S01E10:**"
-a ""
+q "**S01E10: At the time of Queen Rhaenyra's accession, Dragonstone's defenses include how many knights?**"
+a "Thirty", "30"
 
-q "**S01E10:**"
-a ""
+q "**S01E10: Finish the quote! "There has never lived a Stark who ... (3 words)**"
+a "forgot an oath"
 
-q "**S01E10:**"
-a ""
+q "**S01E10: How many dragons are seen on-screen in the season finale of House of the Dragon?**"
+a "Seven", "7"
 
 q "**What actor has appeared in both Season 1 of Game of Thrones and Season 1 of House of the Dragon**"
 a "Jefferson Hall"
