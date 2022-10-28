@@ -153,18 +153,23 @@ a "Jefferson Hall"
 
 q "**Houses of HOT D: Name the House!**"
 a "House Fell"
+i "https://i.imgur.com/hRkEyAJ.jpg"
 
 q "**Houses of HOT D: Name the House!**"
 a "House Caswell"
+i "https://i.imgur.com/mAhTduZ.jpg"
 
 q "**Houses of HOT D: Name the House!**"
 a "House Beesbury"
+i "https://i.imgur.com/UvxkLLV.jpg"
 
 q "**Houses of HOT D: Name the House!**"
 a "House Strong"
+i "https://i.imgur.com/AsRjM54.jpg"
 
 q "**Houses of HOT D: Name the House!**"
 a "House Cole"
+i "https://i.imgur.com/26Cfts4.jpg"
 
 q "**Ser Harwin Strong and his brother, Ser Larys, first appear in what episode of House of the Dragon?**"
 a "S01E03: Second of His Name", "1x3", "S1E3" "episode 3", "e3", "3", "three"
