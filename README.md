@@ -4,19 +4,19 @@ a "King Jaehaerys I Targaryen", "Jaehaerys I Targaryen", "Jaehaerys Targaryen", 
 q "**S01E01: House of the Dragon opens how many years before the birth of Daenerys Targaryen**"
 a "172", "One Hundred Seventy-Two"
 
-q "**S01E01: Finish the quote! "This is no _____ ______, Rhaenyra." (2 words)**"
+q "**S01E01: Finish the quote! "This is no ..., Rhaenyra." (2 words)**"
 a "Trivial Gesture"
 
-q "**S01E01: Finish the quote! "The Gods have yet to make a man who lacks the patience for ______ ______, Your Grace." (2 words)**"
+q "**S01E01: Finish the quote! "The Gods have yet to make a man who lacks the patience for ..., Your Grace." (2 words)**"
 a "Absolute Power"
 
 q "**S01E01: Lord Corlys Velaryon tells the Small Council that the Triarchy has massed on what island?**"
 a "Bloodstone"
 
-q "**S01E02: Finish the quote! "You are the King, but _ __ ___ ___ __." (5 words)**"
+q "**S01E02: Finish the quote! "You are the King, but ..." (5 words)**"
 a "I do not envy you"
 
-q "**S01E02: Finish the quote! "Men would sooner put the _____ __ ___ _____, than see a woman ascend the Iron Throne." (4 words)**"
+q "**S01E02: Finish the quote! "Men would sooner put the ..., than see a woman ascend the Iron Throne." (4 words)**"
 a "Realm to the torch"
 
 q "**S01E02: Daemon Targaryen stole an egg from which dragon to present to his child with Mysaria?**"
@@ -40,7 +40,7 @@ a "2nd", "Second", "2", "Two"
 q "**S01E03: What is the prized animal being hunted in the Kingswood hunt?**"
 a "White Hart", "White Stag", "White Hart Stag"
 
-q "**S01E03: Finish the quote! "Even I do not exist above _____ __ ____, Rhaenyra." (3 words)**"
+q "**S01E03: Finish the quote! "Even I do not exist above ..., Rhaenyra." (3 words)**"
 a "Tradition and duty"
 
 q "**S01E04: How many marriage proposals does Princess Rhaenyra Targaryen hear on-screen while at Storm's End?**"
@@ -52,13 +52,13 @@ a "Two-thousand", "2000", "2k"
 q "**S01E04: Who stops Princess Rhaenyra Targaryen while she is running through the streets of King's Landing?**"
 a "Ser Harwin Strong", "Harwin Strong", "Harwin"
 
-q "**S01E04: Finish the quote! "Hard lessons are not welcomed, but ______." (1 word)**"
+q "**S01E04: Finish the quote! "Hard lessons are not welcomed, but ..." (1 word)**"
 a "Suffered"
 
 q "**S01E04: By this episode, how many fingers had King Viserys lost?**"
 a "Two", "2"
 
-q "**S01E05: Finish the quote! "Either you prepare Aegon to rule, or you cleave to Rhaenyra and ____ ___ ___ _____." (4 words)**"
+q "**S01E05: Finish the quote! "Either you prepare Aegon to rule, or you cleave to Rhaenyra and ..." (4 words)**"
 a "pray for her mercy"
 
 q "**S01E05: Larys Strong first approaches Alicent Hightower in which landmark of the Red Keep?**"
@@ -67,7 +67,7 @@ a "The Godswood", "Godswood"
 q "**S01E05: Who informs King Viserys of the death of Lady Rhea Royce?**"
 a "Lord Corlys Velaryon", "Corlys Velaryon", "Corlys"
 
-q "**S01E05: Finish the quote! "With House Targaryen and House Velaryon united, I hope to herald in a ______ ___ __ ______ in Westeros." (4 words)**"
+q "**S01E05: Finish the quote! "With House Targaryen and House Velaryon united, I hope to herald in a ... in Westeros." (4 words)**"
 a "Second Age of Dragons"
 
 q "**S01E05: Ser Joffrey Lonmouth was also known by what nickname?**"
@@ -85,23 +85,23 @@ a "Prince Aemond Targaryen", "Aemond Targaryen", "Aemond"
 q "**S01E06: Larys Strong's cane is inset with what animal?**"
 a "Firefly", "A firefly"
 
-q "**S01E06: Finish the quote! "Laenor, bring him. We'll need every _____ __ ___ ______." (4 words)**"
+q "**S01E06: Finish the quote! "Laenor, bring him. We'll need every ..." (4 words)**"
 a "sword we can muster"
 
-q "**S01E07:**"
-a ""
+q "**S01E07: Finish the quote! "If I'm the Lord of Driftmark, it means ... (2 words)**"
+a "everyone's dead", "everyones dead", "everyone is dead"
 
-q "**S01E07:**"
-a ""
+q "**S01E07: Finish the quote! "What is this brief mortal life if not the ... (3 words)**"
+a "pursuit of legacy"
 
-q "**S01E07:**"
-a ""
+q "**S01E07: Who took the eye of Prince Aemond Targaryen?**"
+a "Prince Lucerys Velaryon", "Lucerys Velaryon", "Lucerys", "Luke"
 
-q "**S01E07:**"
-a ""
+q "**S01E07: Who does Corlys Velaryon order to retrieve Laenor Velaryon from the sea?**"
+a "Ser Qarl Correy", "Qarl Correy", "Qarl", "Correy"
 
-q "**S01E07:**"
-a ""
+q "**S01E07: Who did Queen Alicent Hightower order to take an eye of Lucerys Velaryon?**"
+a "Ser Criston Cole", "Ser Criston", "Criston Cole", "Criston"
 
 q "**S01E08: Who gave the order to disarm Daemon Targaryen after he killed Vaemond Velaryon?**"
 a "Ser Otto Hightower", "Otto Hightower", "Otto"
@@ -109,25 +109,25 @@ a "Ser Otto Hightower", "Otto Hightower", "Otto"
 q "**S01E08: Who is the first to greet Rhaenyra and Daemon Targaryen upon their return to King's Landing?**"
 a "Lord Allun Caswell", "Lord Caswell", "Caswell"
 
-q "**S01E08:**"
-a ""
+q "**S01E08: Lord Corlys Velaryon was slashed in the neck by what weapon?**"
+a "A dagger", "dagger"
 
-q "**S01E08:**"
-a ""
+q "**S01E08: Finish the quote! "They'll force you to your knees, and I ... (3 words)**"
+a "must stand alone"
 
-q "**S01E08:**"
-a ""
+q "**S01E08: In the throne room, who does King Viserys ask for insight regarding the question of the succession of Driftmark?**"
+a "Princess Rhaenys Targaryen", "Princess Rhaenys", "Rhaenys", "Rhaenys Targaryen"
 
-q "**S01E09:**"
-a ""
+q "**S01E09: Who is the first to reject the accession of Aegon II Targaryen?**"
+a "Lord Lyman Beesbury", "Lyman Beesbury", "Lyman", "Beesbury"
 
-q "**S01E09:**"
-a ""
+q "**S01E09: Otto Hightower states how many of the City Watch captains are still loyal to Prince Daemon Targaryen?**"
+a "Two", "2"
 
-q "**S01E09:**"
-a ""
+q "**S01E09: Where is Prince Aegon Targaryen found following the death of King Viserys I Targaryen?**"
+a "The Grand Sept", "Sept" "The Great Sept", "Great Sept", "Grand Sept"
 
-q "**S01E09: What is the first House to reaffirm their allegiance to Rhaenyra Targaryen in the Throne Room?**"
+q "**S01E09: What is the first House to formally reaffirm their allegiance to Rhaenyra Targaryen in the Throne Room?**"
 a "House Fell", "Fell"
 
 q "**S01E09: Who placed the crown on the head of King Aegon II Targaryen during his coronation?**"
